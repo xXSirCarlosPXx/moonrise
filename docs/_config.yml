@@ -13,8 +13,8 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Moonrise MC
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
-useBedrockForOnlineStatus: false
+serverIP: 2.223.144.35:26939
+useBedrockForOnlineStatus: true
 
 
 # Discord information
